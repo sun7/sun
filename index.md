@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Website. Have a nice time!
 
 You can use the [editor on GitHub](https://github.com/sun7/sun/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
